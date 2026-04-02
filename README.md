@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Product thinking, data-driven decision making, UX improvements, and full-stack development**
 
-- 📫 How to reach me **Aafreenfathima0605@gmail.com**
+- 📫 How to reach me **contactaafreenfathima@gmail.com**
 
 - ⚡ Fun fact **I love cats**
 
