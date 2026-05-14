@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Scaling AI systems and real-world product deployment**
 
-- 👨‍💻 All of my projects are available at [https://aafreenfathima.framer.website/](https://aafreenfathima.framer.website/)
+- 👨‍💻 All of my projects are available at [https://aafreenfathima.framer.website/](https://aafreen-portfolio-two.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@aafreenfathima0605](https://medium.com/@aafreenfathima0605)
 
